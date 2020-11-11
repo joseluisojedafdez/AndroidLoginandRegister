@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login y Registro</string>
+
+    <string name="pagina_de_registro">PAGINA DE REGISTRO</string>
+    <string name="nombre_usuario">Nombre Usuario</string>
+    <string name="confirme_contrase_a">confirme contraseña</string>
+    <string name="password">password</string>
+    <string name="confirmpassword">password</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="seleccion_eedad">Seleccion eedad</string>
+    <string name="title_activity_login">login</string>
+    <string name="log_in">LOG IN</string>
+    <string name="o_si_no_tienes_cuenta">O, si no tienes cuenta</string>
+    <string name="register">REGISTER</string>
+
+
+</resources>
